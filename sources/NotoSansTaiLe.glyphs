@@ -160,7 +160,7 @@ name = Languagesystems;
 features = (
 {
 code = "sub uni196C' [uni0300 uni0301 uni0307 uni0308 uni030C]  by uni196C.wide;\012sub @class1 uni0300' by uni0300.space;\012sub @class1 uni0301' by uni0301.space;\012sub @class1 uni0307' by uni0307.space;\012sub @class1 uni0308' by uni0308.space;\012sub @class1 uni030C' by uni030C.space;\012";
-name = ccmp;
+name = rclt;
 },
 {
 code = "# Automatic Code Start\012";
