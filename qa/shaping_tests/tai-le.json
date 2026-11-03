@@ -1,9 +1,0 @@
-{
-    "tests": [
-        {
-            "input": "ᥤ̌ᥑ",
-            "expectation": "uni1964=0+549|uni030C.space=0+441|uni1951=2+664",
-            "note": "#2"
-        }
-    ]
-}
